@@ -1,0 +1,14 @@
+p {
+    font-family: "Arial", sans-serif;
+    background-color: aquamarine;
+    font-size: 20px;
+    color: rgb(0, 147, 98);
+    text-align: end;
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px 30px 20px 50px;
+    border: 2px solid black; /*vora de 2 pixels, sòlida i negra*/
+    padding: 20px; /*posa marges entre es border i es text*/
+    width: 400px;
+    margin: 50%;
+}
